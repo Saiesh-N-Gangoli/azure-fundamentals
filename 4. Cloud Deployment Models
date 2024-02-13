@@ -1,0 +1,48 @@
+Cloud deployment models:
+------------------------
+1) Public Cloud
+2) Private Cloud
+3) Hybrid Cloud
+
+Public clouds:
+--------------
+They are host providers like AWS, azure or google. Public cloud is a type of computing where resources are offered by a third-party provider via the internet and shared by 
+organizations and individuals who want to use or purchase them.
+
+Characteristics:
+----------------
+1) Ownership: The cloud is not owned by any organization but is by any third-party organization like AWS, azure and others. 
+2) Multiple End Users: Cloud providers will make avail the resource available to multiple organizations.
+3) Public Access: The access is public and the access and be done through an internet connection.
+4) Availability: Availability is more.
+5) Connectivity: Users and organizations are connected over internet.
+6) Skills: You don't need high skills or infrastructures to set up the cloud.
+
+Private Cloud: 
+--------------
+Within your organizations. Owned and operated by organizations. Organizations create their own cloud envinornment and setup it and also have a data center. When privacy 
+is more important for an organization and you need to have everything to secured from the public such as medical firms you need to use private clouds.
+
+Characteristics:
+-----------------
+1) Ownership: Owner and user both are SAME.
+2) Users: Only one organization owning the cloud is the user of the cloud platform.
+3) Connectivity: Private network connecetivity.
+4) Public access:No public access available.
+5) Skills: You need deep technology knowledge.
+6) Hardware:Owner is responsible for maintaining hardwares.
+
+Hybrid Clouds:
+---------------
+Hybrid clouds work by combining the resources and services from two or more separate computing environments. Hybrid cloud architectures require integration, orchestration, 
+and coordination so you can share, shift, and synchronize information quickly. Hybrid cloud is the combination of public and private cloud, hosting in public and maintaining 
+in secure private cloud.Or the old resources which cannot be upgraded to cloud envinornment but needs to be authorized in some aspect using the cloud. So in that case the 
+resources run locally.
+
+Characterisitics:
+------------------
+1) Resource location: some resources run on public cloud and some run on private cloud.
+2) Cost & Efficiency
+3) Control: Most management control to organization.
+4) Skills: Considerable skills required. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
