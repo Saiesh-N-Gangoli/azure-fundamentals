@@ -1,0 +1,35 @@
+Cloud computing: Cloud computing is a model for enabling ubiquitous, conveneient, on-demand network access to a shared pool of configurable computing resources 
+that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+(Defination given by National Institute of Standards and Technology)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cloud computing services: [CANS] = [Computer Power, Analytics, Networking, Storage]
+--> Computer power: Windows, Linux, web containers.
+--> Storage: Files and databases.
+--> Networking
+--> Analytics
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Benefits:
+--> Cost Effective : Pay only for what you use, no need to pay.
+--> Scalability: Increase or decrease infrastructure.
+    There are two types of scaling:
+	a) Horizontal scaling: Adding more and more servers which act as one single unit. (Scale Out)
+	b) Vertical Scaling: Adding resoucres to existing servers. Increasing the size of the existing servers like adding CPU and etc...(Scale up)
+--> Elasticity
+--> Up-to-date
+--> Reliable -- Fault Tolerance: Backups, disaster recovery
+--> Cloud is global
+--> Secure
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Key concepts and terminology:
+--> High availability: Ability to run the services for a long run. Short down time. [Availability = Uptime/(Uptime + Downtime)]
+--> Scalability: Ability to increase or decrease the resources based on the workload.
+--> Elasticity: Ability to dynamically increase or decrease the resources based on the workload.
+--> Agility: Ability to react quickly when resources are required.
+--> Fault tolerance: Ability to stand strong during component failure. Backups needs to be there.
+--> Disaster Recovery: Ability to recover from an event which has taken the cloud down.
+--> Global reach: Ability to reach people around the globe though there is no proper infrastructure.
+--> Customer Latency Capabilities: Slowness in cloud services === latency problems. Cloud provides to overcome these latency.
+--> Predictive Cost Considerations: Ability to predict the cost of cloud services in advance.
+--> Technical skill requirement: Less technical skill requirement.
+--> Increased productivity: Eliminates many tasks like racking, stacking, patching.
+--> Security: Policies, technlogies, controls
